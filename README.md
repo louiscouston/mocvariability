@@ -1,3 +1,5 @@
+## Problem Set no 4 (Atmosphere-Ocean-Ice Interactions course at *UCBL*)
+
 This repository contains a Jupyter notebook adapted from a computing session for Geophysical Fluid Dynamics led by Corentin Herbert at the Department of Physics at *ENS de Lyon*.
 
 The goal is to illustrate potential mechanisms for millenial-scale variability in the ocean using simple box models of the buoyancy-driven circulation.
